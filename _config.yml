@@ -90,7 +90,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: text
+      - layout: left
         sub_title: Volcanic Eruptions
         caption: My very first project from Turing college with EDA.
         link: github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb 
