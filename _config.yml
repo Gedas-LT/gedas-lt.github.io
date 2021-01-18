@@ -92,6 +92,7 @@ content:
     sub_title: Volcanic Eruptions
     content: | # this will include new lines to allow paragraphs
       [GitHub](github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb)
+    content: | # this will include new lines to allow paragraphs
       My very first project from Turing college with EDA.   
 
   - title: A Little More About Me
