@@ -53,6 +53,15 @@ content:
       - layout: left
         sub_title: Digital Campaign Manager
         caption: April 2016 - August 2016
+        
+        - layout: left
+        title: TV3 Lithuania
+        sub_title: Online Sales Planner
+        caption: February 2015 - March 2016
+        
+      - layout: left
+        sub_title: Online Editor
+        caption: May 2011 - January 2015
        
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
