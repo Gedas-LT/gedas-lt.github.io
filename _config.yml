@@ -97,7 +97,7 @@ content:
 
   - title: A Little More About Me
     layout: text
-    description: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs
       Alongside my interests in data science and various fields of physics some of my other interests and hobbies are:
       - Cycling
       - Gaming
