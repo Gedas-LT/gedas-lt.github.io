@@ -90,9 +90,9 @@ content:
   - title: Projects # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <mark>Volcanic Eruptions</mark>
-      [GitHub](github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb)
-      My very first project from Turing college with EDA.   
+      <mark>Volcanic Eruptions</mark> |
+      [GitHub](https://github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb) |
+      My very first project from Turing college with EDA. |   
 
   - title: A Little More About Me
     layout: text
