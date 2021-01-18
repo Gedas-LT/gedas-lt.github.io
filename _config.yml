@@ -88,13 +88,11 @@ content:
         sub_title: Bachelor's Degree in Physics, Computing Physics
          
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Volcanic eruptions
-        link: github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb
-        description: | # this will include new lines to allow paragraphs
-          My the very first project from Turing college with EDA.    
+    layout: text
+    sub_title: Volcanic Eruptions
+    content: | # this will include new lines to allow paragraphs
+      [GitHub](github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb)
+      My the very first project from Turing college with EDA.   
 
   - title: A Little More About Me
     layout: text
