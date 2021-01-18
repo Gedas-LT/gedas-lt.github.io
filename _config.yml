@@ -9,14 +9,14 @@ version: 2
 name: Gediminas Šimavičius
 title: Data Analyst
 email: gediminas.simavicius@gmail.com
-website: www.github.com/sproogen/resume-theme
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  Gedas-LT
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
