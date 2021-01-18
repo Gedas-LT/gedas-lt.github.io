@@ -88,7 +88,7 @@ content:
         sub_title: Bachelor's Degree in Physics, Computing Physics
          
   - title: Projects # Title for the section
-    layout: text
+    layout: left
     content: | # this will include new lines to allow paragraphs
       <mark>Volcanic Eruptions</mark> |
       [GitHub](https://github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb) |
