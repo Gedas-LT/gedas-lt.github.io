@@ -92,14 +92,7 @@ content:
     content:
       - layout: left
         title: Volcanic eruptions
-        url: [GitHub](https://github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb)
-        link: [GitHub](https://github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb)
-        additional_links:
-          - title:  GitHub
-            url: github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        link: github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
