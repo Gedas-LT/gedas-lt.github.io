@@ -109,10 +109,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in data science and various fields of physics some of my other interests and hobbies are:
+      - Cycling
       - Gaming
-      - Knitting
+      - Reading
 
 # Footer
 footer_show_references: true
