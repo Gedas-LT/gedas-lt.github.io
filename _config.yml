@@ -92,6 +92,7 @@ content:
     content:
       - layout: left
         title: Volcanic eruptions
+        url: github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb
         additional_links:
           - title:  GitHub
             url: github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb
