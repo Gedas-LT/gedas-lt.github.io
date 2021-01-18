@@ -50,8 +50,6 @@ content:
         sub_title: Digital Media Planner
         caption: September 2016 - November 2020
         
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         sub_title: Digital Campaign Manager
         caption: April 2016 - August 2016
