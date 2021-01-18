@@ -93,10 +93,8 @@ content:
       - layout: left
         title: Volcanic eruptions
         link: github.com/Gedas-LT/turing-projects/blob/main/volcanos_eda.ipynb
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.    
+          My the very first project from Turing college with EDA.    
 
   - title: A Little More About Me
     layout: text
