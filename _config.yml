@@ -50,21 +50,21 @@ content:
         sub_title: Data Analyst
         caption: November 2020 - Present
         
-      - layout: top-middle
+      - layout: left
         title: Inspired UM
         sub_title: Digital Media Planner
         caption: September 2016 - November 2020
         
-      - layout: top-middle
+      - layout: left
         sub_title: Digital Campaign Manager
         caption: April 2016 - August 2016
         
-      - layout: top-right
+      - layout: left
         title: TV3 Lithuania
         sub_title: Online Sales Planner
         caption: February 2015 - March 2016
         
-      - layout: top-right
+      - layout: left
         sub_title: Online Editor
         caption: May 2011 - January 2015
        
